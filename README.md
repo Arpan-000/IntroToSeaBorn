@@ -1,6 +1,4 @@
-Here's a simplified README for the code you provided:
 
----
 
 **Title:** Comparing Closing Ranks of Two Engineering Institutions
 
