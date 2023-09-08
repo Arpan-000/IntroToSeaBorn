@@ -103,6 +103,4 @@ plt.show()
 
 This code is provided under the [MIT License](LICENSE).
 
----
 
-Feel free to modify this template to provide more detailed information or add any other relevant sections to your README file.
