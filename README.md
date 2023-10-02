@@ -110,7 +110,7 @@ This code is provided under the [MIT License](LICENSE).
 
 
 
-# Playing With Numpy
+### Playing With NUMPY
 
 argmax: This function returns the indices of the maximum value along a specified axis in the NumPy array Arr1.
 
